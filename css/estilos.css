@@ -1,0 +1,17 @@
+.cabecera{
+    background-color: rgb(160, 238, 14);
+    color: black;
+    padding: 10px;
+    font-size: 1.5rem;
+    margin: 0px;
+}
+.titulo{
+    color: black;
+    font-size: 3rem;
+}
+.inicio{
+    background-color: bisque;
+}
+.footer{
+    background-color: rgb(160, 238, 14);
+}
